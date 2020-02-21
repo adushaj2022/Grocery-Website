@@ -1,8 +1,7 @@
-
 body{
 	
 	font-family: 'Poppins', sans-serif;
-
+	background-color: Blue;
 }
 header{
 	
@@ -12,4 +11,54 @@ header{
 	height:10vh;
 	align-items:center;
 	
+}
+.nav-links{
+	
+	justify-content:space-around;
+	list-style: none;
+	display: flex;
+
+}
+
+.nav-link{
+	
+	font-size: 18px;
+	text-decoration: none;
+	
+	
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: Blue;
+}
+
+
+nav{
+	
+	flex: 4;
+}
+ShopCart{
+	
+	flex: 1;
+	justify-content:flex-end;
 }
