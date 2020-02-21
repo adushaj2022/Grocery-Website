@@ -1,2 +1,3 @@
 # cmpt_330
-project for system design
+
+  This project will be a a web application of a delivery service for groceries. The website will give the users the shopping experience right from their homes.
