@@ -10,11 +10,12 @@
 	
 <title>Goods & Go: Delivery Service </title>
 <header>
-	<h1> Goods & Go </h1>
+	<h1> <a class = "HeaderLink" href = "HTMLPage.html"> Goods & Go </h1>
+	<!--
 	<shopping-cart class = "shopping-cart">
 		<a href=#>Shopping Cart<img src="shoppingcart.png" alt="Shopping Cart" align = right height="42" width="42"> </a>
 	</div>
-	
+	-->
 
 	
 </header>
@@ -45,9 +46,9 @@
         <p>The delivery fee all varies on the area, the time of day that you are ordering from, and how far away your destination is from the grocery store itself.</p>
     <h3>How do I find the item that I am looking for?</h3>
     <p>If you need help searching for an item, use the search bar. <br>
+<!--
         <img src="magnifying_glass.jpeg" alt="Magnifying Glass" align = right>
+-->
         The search bar should be located at the top of the screen.</p>
     <h3>How can I pay?</h3>
     <p>Simply, just add the debit, credit, or gift card in the checkout tap. We are adjusting to the newer generation so we may accept Venmo in the near future. Keep updated with Goods N' Go.</p>
-    
-    
