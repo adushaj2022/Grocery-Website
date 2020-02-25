@@ -1,6 +1,7 @@
 body{
 	
 	font-family: 'Poppins', sans-serif;
+	background-color: #ffffcc;
 	
 
 }
@@ -20,9 +21,7 @@ h1, .HeaderLink{
 	text-decoration: none;
 	
 }
-h2{
-	
-}
+
 
 .q {
 	color: black;
