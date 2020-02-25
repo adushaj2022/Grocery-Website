@@ -25,10 +25,10 @@
 	
 	<nav>
 	<ul class = "nav-links">
-		<li><a class = "nav-link"  href=#>Help Page</a></li>
-		<li><a class = "nav-link" href=#>About Us</a></li>
-		<li><a class = "nav-link" href=#>FAQ</a></li>
-		<li><a class = "nav-link" href=#>Stores Near You </a></li>
+		<li><a class = "nav-link"  href=helpPage.html>Help Page</a></li>
+		<li><a class = "nav-link" href=aboutPage.html>About Us</a></li>
+		<li><a class = "nav-link" href=faq.html>FAQ</a></li>
+		<li><a class = "nav-link" href=ShoppingPage.html>Search </a></li>
 		<li><a class = "nav-link" href=#>Log In</a></li>
 	</ul>
 	</nav>
