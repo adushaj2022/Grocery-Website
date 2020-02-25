@@ -6,7 +6,7 @@
 	<meta http-equiv = "X-UA-Compatible" content = "ie=edge" />
 	<link href="https://fonts.googleapis.com/css?family=Poppins:400,500&display=swap" rel="stylesheet" />
 	
-	<link rel = "Stylesheet" type = "text/css" href = "styles.css"/>
+	<link rel = "Stylesheet" type = "text/css" href = "xsStyle.css"/>
 	
 <title>Goods & Go: Delivery Service </title>
 <header>
