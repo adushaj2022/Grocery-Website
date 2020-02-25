@@ -24,6 +24,12 @@ h2{
 	
 }
 
+.q {
+	color: black;
+	font-style: "Brush Script Std", cursive;
+	font-size: 20px; 
+}
+	
 .nav-links{
 	
 	justify-content:space-around;
