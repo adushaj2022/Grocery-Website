@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang = "en">
+<head>
+<meta charset= "UTF-8"/>
+	<meta name = "viewport" content = "width=device-width, inital-scale=1.0" />
+	<meta http-equiv = "X-UA-Compatible" content = "ie=edge" />
+	<link href="https://fonts.googleapis.com/css?family=Poppins:400,500&display=swap" rel="stylesheet" />
+	
+	<link rel = "Stylesheet" type = "text/css" href = "styles.css"/>
+	
+<title>Goods & Go: Delivery Service </title>
+<header>
+	<h1> Goods & Go </h1>
+	<shopping-cart class = "shopping-cart">
+		<a href=#>Shopping Cart<img src="shoppingcart.png" alt="Shopping Cart" align = right height="42" width="42"> </a>
+	</div>
+	
+
+	
+</header>
+
+<body>
+	
+	
+	<nav>
+	<ul class = "nav-links">
+		<li><a class = "nav-link"  href=#>Help Page</a></li>
+		<li><a class = "nav-link" href=#>About Us</a></li>
+		<li><a class = "nav-link" href=#>FAQ</a></li>
+		<li><a class = "nav-link" href=#>Stores Near You </a></li>
+		<li><a class = "nav-link" href=#>Log In</a></li>
+	</ul>
+	</nav>
+	
+</body>
+    
+    <h3>How Goods N Go Works</h3>
+    <p>Goods N Go has a very simple process.
+    You enter your address, pick your store and what you want from that store, and we do the rest. 
+        <br>The groceries will be at your door at the estimated time and you have to do to get the groceries from our employers. 
+        <br>Its's that simple. </p>
+    <h3>Where Does Goods N Go Work?</h3>
+        <p>We are opening up hundreds of businesses in different areas throughout New York, Connecticut, Massachusetts, and New Jersey. </p>
+    <h3>How expensive it the delivery fee?</h3>
+        <p>The delivery fee all varies on the area, the time of day that you are ordering from, and how far away your destination is from the grocery store itself.</p>
+    <h3>How do I find the item that I am looking for?</h3>
+    <p>If you need help searching for an item, use the search bar. <br>
+        <img src="magnifying_glass.jpeg" alt="Magnifying Glass" align = right>
+        The search bar should be located at the top of the screen.</p>
+    <h3>How can I pay?</h3>
+    <p>Simply, just add the debit, credit, or gift card in the checkout tap. We are adjusting to the newer generation so we may accept Venmo in the near future. Keep updated with Goods N' Go.</p>
+    
+    
